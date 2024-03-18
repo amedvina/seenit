@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To do list:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-[x] Create key models
+  -[x] User
+  -[x] Community
+  -[x] Post
+  -[x] Comment
+  -[x] Subscription
+-[ ] Scaffolding for a community (index, show, create, destroy)
+-[ ] Scaffolding for a post (index, show, create, update, destroy)
+-[ ] Scaffolding for a comment (index, create, update, destroy)
+-[ ] Implement CSS
+-[ ] User session
